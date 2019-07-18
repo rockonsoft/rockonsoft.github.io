@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Going Clound Native.
+title: Going Cloud Native.
 ---
 
 I have become grizzly. The hair, the beard and the world view. I have been in this industry for 2 decades. In that time I have immersed myself and quite a number of technologies - end result - grey hair.
