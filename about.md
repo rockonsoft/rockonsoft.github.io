@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a full software life cycle developer with 16 years experience working with the tools, languages and platforms (Windows or Linux) most appropriate to get the job done. Adaptable and pragmatic, I have worked in diverse fields such as Geophysics, Financial, Telecoms, Archiving and Document management. 
+I am a full stack developer with 16 years experience working with the tools, languages and platforms most appropriate to get the job done. Adaptable and pragmatic, I have worked in diverse fields such as Geophysics, Financial, Telecoms, Archiving and Document management. 
 
 ...but now I am leaving that all behind and going cloud native.
 
