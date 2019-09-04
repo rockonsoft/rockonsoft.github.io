@@ -3,9 +3,9 @@ layout: post
 title: Firestore and Dates.
 ---
 
-Google's Firestore is magical. You save stuff and it stays saved. If you have the right observables in place, you will get updates when your data change, you will get the updated data, without having to query for it.
+Google's Firestore is magical. You save stuff and it stays saved. Get the right observables in place and you will get your updated data, without having to query for it.
 
-Working with Dates in Firestore is magical. From your Node code you just save a date, and it just works. The fun starts when you try to read that date back, and the results might be surprising. This blog focuses on using Timestamp for dates and not the time aspect of it.
+Working with Dates in Firestore is a bit magical, too. From your Node code you just save a date, and it just works. The fun starts when you try to read that date back, and the results might be surprising. This blog focuses on using Timestamp for dates and not Date and Time.
 
 ## Why save a Timestamp
 
