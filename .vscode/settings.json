@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  // Enable per-language
+  "[markdown]": {
+    "editor.formatOnSave": false
+  }
+}
